@@ -1,0 +1,59 @@
+[33mcommit d0234e2c5672160c7e0026466dc83a3455d247e1[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Thu Jul 6 09:11:11 2017 +0530
+
+    Add 'empty' directory with a file .gitkeep in it
+
+[33mcommit 35cf560c4caeab3e56b33d5e14e6989058027028[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Thu Jul 6 09:01:58 2017 +0530
+
+    Remove tempfile2.txt from staging index
+
+[33mcommit 6cbe9276d098151fec428f1df554ce4601305de0[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Thu Jul 6 08:57:36 2017 +0530
+
+    Add tempfile2.txt to repo before we ignore it
+
+[33mcommit 521ddda478dee72a31de8c01208ded99b972edfb[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Thu Jul 6 07:13:43 2017 +0530
+
+    Add .gitignore file
+
+[33mcommit 19271216d0fe06354ebbcaa9524008aa1c46cbed[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Wed Jul 5 17:44:18 2017 +0530
+
+    Shifted sunglasses to postion just above hat, in the list of outdoor trip items
+
+[33mcommit 195a43374c040e2374d8b6594d5afc470ae3489e[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Wed Jul 5 15:51:17 2017 +0530
+
+    Removed all contractions from contact html
+
+[33mcommit 18042163054bdd9a655a0494f364c3865ae05c35[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Wed Jul 5 15:50:16 2017 +0530
+
+    Changed all instances from backpack html to backpack_cal html
+
+[33mcommit ec8f698c3dba23c174060d5d1bfc4a3e8e101d02[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Wed Jul 5 15:43:13 2017 +0530
+
+    Renamed backpack html file to backpack_cal
+
+[33mcommit 692e7b639e3e163e0d56a5c201bbc118e7754cdb[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Wed Jul 5 15:20:01 2017 +0530
+
+    Changed 24 hr support no to '4314'
+
+[33mcommit caad2a186090ec0ac1b8af8658b81bae938734f4[m
+Author: Ankit Arni <ankit.arni.1995@gmail.com>
+Date:   Wed Jul 5 15:06:36 2017 +0530
+
+    Initial commit
